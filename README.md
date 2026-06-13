@@ -81,10 +81,10 @@ Não há dependências ou build necessários. Basta clonar o repositório e abri
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/manhattan-coffee-house.git
+git clone https://github.com/LucasDiasXavier/projeto-cafeteria.git
 
 # Acesse a pasta do projeto
-cd manhattan-coffee-house
+cd projeto-cafeteria
 
 # Abra no navegador
 # Dê duplo clique em index.html, ou use uma extensão como Live Server no VS Code
